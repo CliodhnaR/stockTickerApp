@@ -4,7 +4,7 @@
   "description": "",
   "main": "finalTickerWebApp.js",
   "scripts": {
-    "start": "finalTickerWebApp.js",
+    "start": "node finalTickerWebApp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "cliodhna-reidy",
