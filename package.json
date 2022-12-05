@@ -4,12 +4,15 @@
   "description": "",
   "main": "finalTickerWebApp.js",
   "scripts": {
-    "start": "node finalTickerWebApp.js",
+    "start": "finalTickerWebApp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "cliodhna-reidy",
   "license": "ISC",
   "engines": {
     "node": "18.12.1"
+  },
+  "dependencies": {
+    "mongodb": "^4.12.1"
   }
 }
